@@ -7,114 +7,78 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Miftaul Mannan",
-  logo_name: "Miftaul Mannan",
-  nickname: "Tasin",
+  title: "Werayoot kunphai",
+  logo_name: "Werayoot kunphai",
+  nickname: "Theon",
   subTitle:
-    "An aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.",
+    "An aspiring developer who loves to take on new projects and explore new technology that challenges his skills.",
   resumeLink:
-    "https://drive.google.com/file/d/1ecfeM8pNH7aLELi5EINHrX8-jY5Uqb0q/view?usp=sharing",
-  portfolio_repository: "https://github.com/Tasin5541",
+    "https://onedrive.live.com/edit.aspx?cid=c324fb21999d9eb1&page=view&resid=C324FB21999D9EB1!632&parId=C324FB21999D9EB1!101&app=Word&wacqt=sharedby",
+  portfolio_repository: "https://github.com/Werayootk",
 };
 
 const socialMediaLinks = [
   {
     name: "Github",
-    link: "https://github.com/Tasin5541",
+    link: "https://github.com/Werayootk",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/miftaul-mannan-tasin-566543107/",
+    link: "https://www.linkedin.com/in/werayoot-kunphai/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "YouTube",
     link:
-      "https://www.youtube.com/channel/UClvrUclYSGX_MZPOF6ySG6A?view_as=subscriber",
+      "https://www.youtube.com/channel/UCoePSr-jCIk-ZBNZHW6LHmQ",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
     link:
-      "https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=tasinmiftaulmannan@gmail.com&subject=MISSED%20CALL%20EZTRADER&body=Hello",
+      "https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=werayoot5800@gmail.com&subject=MISSED%20CALL%20EZTRADER&body=Hello",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-  /*
   {
     name: "Stackoverflow",
-    link: "https://stackoverflow.com/users/14167873/jongi95",
+    link: "https://stackoverflow.com/users/9064641/da12kness",
     fontAwesomeIcon: "fa-stack-overflow", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#FE7A16", // Reference https://simpleicons.org/?q=twitter
+    backgroundColor: "#F58025", // Reference https://simpleicons.org/?q=twitter
   },
-  */
   {
     name: "Facebook",
-    link: "https://www.facebook.com/tasinmiftaulmannan",
+    link: "https://www.facebook.com/werayoot.kunphai",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/mm_tasin/",
+    link: "https://www.instagram.com/werayootk/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  },
+  {
+    name: "Medium",
+    link: "https://werayoot-kunphai.medium.com/",
+    fontAwesomeIcon: "fa-medium", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#000000", // Reference https://simpleicons.org/?q=instagram
   },
 ];
 
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-      ],
-    },
-    {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using Angular and React",
+        "⚡ Building responsive website front end using React and CSS",
         "⚡ Implementing secure access to database",
-        "⚡ Creating application backend in .Net Core",
+        "⚡ Creating application backend in .Net Core and NodeJS",
       ],
       softwareSkills: [
         {
@@ -168,10 +132,17 @@ const skills = {
           },
         },
         {
-          skillName: "Angular",
-          fontAwesomeClassname: "simple-icons:angular",
+          skillName: "redux",
+          fontAwesomeClassname: "simple-icons:redux",
           style: {
-            color: "#DD0031",
+            color: "#764ABC",
+          },
+        },
+        {
+          skillName: "redux-saga",
+          fontAwesomeClassname: "simple-icons:reduxsaga",
+          style: {
+            color: "#999999",
           },
         },
         {
@@ -181,72 +152,88 @@ const skills = {
             color: "#5C2D91",
           },
         },
-      ],
-    },
-    {
-      title: "App Development",
-      fileName: "AndroidImg",
-      skills: [
-        "⚡ Experience working on Android apps",
-        "⚡ Knowledge on several SDKs & APIs",
-        "⚡ Deploying Firebase based apps for secure accessing of information from anywhere",
-        "⚡ Adapting new Material Design principles for a more refined look",
-      ],
-      softwareSkills: [
         {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
           style: {
-            color: "#4285F4",
+            color: "#47A248",
           },
         },
         {
-          skillName: "Android Studio",
-          fontAwesomeClassname: "mdi:android-studio",
+          skillName: "SQL Server",
+          fontAwesomeClassname: "simple-icons:microsoftsqlserver",
           style: {
-            color: "#3DDC84",
+            color: "#CC2927",
           },
         },
         {
-          skillName: "VS",
-          fontAwesomeClassname: "mdi:microsoft-visual-studio",
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
           style: {
-            color: "#5C2D91",
+            color: "#4479A1",
           },
         },
         {
-          skillName: "Firebase",
+          skillName: "FireBase",
           fontAwesomeClassname: "simple-icons:firebase",
           style: {
             color: "#FFCA28",
           },
         },
         {
-          skillName: "Gradle",
-          fontAwesomeClassname: "simple-icons:gradle",
+          skillName: "Sequelize",
+          fontAwesomeClassname: "simple-icons:sequelize",
           style: {
-            color: "#02303A",
+            color: "#52B0E7",
           },
         },
         {
-          skillName: "Java",
-          fontAwesomeClassname: "simple-icons:java",
+          skillName: "Prisma",
+          fontAwesomeClassname: "simple-icons:prisma",
           style: {
-            color: "#007396",
+            color: "#2D3748",
           },
         },
         {
-          skillName: "ADB",
-          fontAwesomeClassname: "ic:outline-adb",
+          skillName: "GraphQL",
+          fontAwesomeClassname: "simple-icons:graphql",
           style: {
-            color: "#3DDC84",
+            color: "#E434AA",
           },
         },
         {
-          skillName: "Eclipse",
-          fontAwesomeClassname: "simple-icons:eclipseide",
+          skillName: "Prisma",
+          fontAwesomeClassname: "simple-icons:prisma",
           style: {
-            color: "#2C2255",
+            color: "#2D3748",
+          },
+        },
+        {
+          skillName: "Jest",
+          fontAwesomeClassname: "simple-icons:jest",
+          style: {
+            color: "#C21325",
+          },
+        },
+        {
+          skillName: "Chai",
+          fontAwesomeClassname: "simple-icons:chai",
+          style: {
+            color: "#A30701",
+          },
+        },
+        {
+          skillName: "Postman",
+          fontAwesomeClassname: "simple-icons:postman",
+          style: {
+            color: "#FF6C37",
+          },
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            color: "#2496ED",
           },
         },
       ],
@@ -255,8 +242,7 @@ const skills = {
       title: "UI/UX Design",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
+        "⚡ Designing highly attractive user interface for web applications",
         "⚡ Creating the flow of application functionalities to optimize user experience",
       ],
       softwareSkills: [
@@ -274,149 +260,7 @@ const skills = {
             color: "#F24E1E",
           },
         },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
-        },
       ],
-    },
-  ],
-};
-
-const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
-  experience: [
-    {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "80%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "Backend",
-      progressPercentage: "70%",
-    },
-    {
-      Stack: "Programming",
-      progressPercentage: "80%",
-    },
-  ],
-};
-
-//Language Skill
-const sLanguage = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
-  experience: [
-    {
-      Stack: "Python", //Insert stack or technology you have experience in
-      progressPercentage: "80%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "C/C++/C#",
-      progressPercentage: "70%",
-    },
-    {
-      Stack: "Java", //Insert stack or technology you have experience in
-      progressPercentage: "60%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "JavaScript/TypeScript",
-      progressPercentage: "65%",
-    },
-    {
-      Stack: "Angular",
-      progressPercentage: "70%",
-    },
-    {
-      Stack: "React",
-      progressPercentage: "60%",
-    },
-    {
-      Stack: "SQL/PLSQL",
-      progressPercentage: "80%",
-    },
-    {
-      Stack: "HTML", //Insert stack or technology you have experience in
-      progressPercentage: "90%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "CSS",
-      progressPercentage: "80%",
-    },
-    {
-      Stack: "Bootstrap",
-      progressPercentage: "80%",
-    },
-    {
-      Stack: "PHP",
-      progressPercentage: "70%",
-    },
-    {
-      Stack: ".Net Core",
-      progressPercentage: "65%",
-    },
-  ],
-};
-
-//Tools Skill
-const tools = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
-  experience: [
-    {
-      Stack: "Visual Studio", //Insert stack or technology you have experience in
-      progressPercentage: "80%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "Visual Studio Code", //Insert stack or technology you have experience in
-      progressPercentage: "85%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "Google Colab",
-      progressPercentage: "95%",
-    },
-    {
-      Stack: "Code::Blocks",
-      progressPercentage: "90%",
-    },
-    {
-      Stack: "Android Studio", //Insert stack or technology you have experience in
-      progressPercentage: "70%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "Netbeans",
-      progressPercentage: "80%",
-    },
-    {
-      Stack: "Microsoft Office",
-      progressPercentage: "90%",
-    },
-    {
-      Stack: "Google Docs",
-      progressPercentage: "90%",
-    },
-    {
-      Stack: "Oracle Database", //Insert stack or technology you have experience in
-      progressPercentage: "70%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "MS SQL Server", //Insert stack or technology you have experience in
-      progressPercentage: "90%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "Firebase", //Insert stack or technology you have experience in
-      progressPercentage: "60%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "Github",
-      progressPercentage: "80%",
     },
   ],
 };
@@ -456,11 +300,36 @@ const competitiveSites = {
       },
       profileLink: "",
     },
+    {
+      siteName: "Leetcode",
+      iconifyClassname: "simple-icons:leetcode",
+      style: {
+        color: "#FFA116",
+      },
+      profileLink: "",
+    },
   ],
 };
 
 const degrees = {
   degrees: [
+    {
+      title: "Ahsanullah University of Science and Technology",
+      subtitle: "B.Sc. in Computer Science and Engineering",
+      logo_path: "aust_logo.png",
+      alt_name: "IIITDM Kurnool",
+      duration: "March 2016 - December 2020",
+      cgpa: "3.89 / 4.00",
+      descriptions: [
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, OOP, DBMS, OS, CA, AI etc.",
+        "⚡ Apart from this, I have done courses on Deep Learning and Full Stack Development.",
+        "⚡ Placed 4th in my class.",
+        "⚡ Dean's List.",
+        "⚡ I was selected for ITEE Training Program which comprised of 20 students in the CSE department.",
+        "⚡ Elected as the team leader in all the group projects.",
+      ],
+      website_link: "http://aust.edu/",
+    },
     {
       title: "Ahsanullah University of Science and Technology",
       subtitle: "B.Sc. in Computer Science and Engineering",
@@ -501,116 +370,6 @@ const certifications = {
       alt_name: "Michigan University",
       color_code: "#2A73CC",
     },
-    /*
-    {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
-    },
-    {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
-      color_code: "#D83B0199",
-    },
-    {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
-      logo_path: "coursera_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
-      color_code: "#2A73CC",
-    },
-    {
-      title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
-    },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-	*/
   ],
 };
 
@@ -798,9 +557,6 @@ export {
   greeting,
   socialMediaLinks,
   skills,
-  techStack,
-  sLanguage,
-  tools,
   competitiveSites,
   degrees,
   certifications,

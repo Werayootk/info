@@ -10,8 +10,6 @@ import { Fade } from "react-reveal";
 import "./ContactComponent.css";
 import { greeting, contactPageData } from "../../data/portfolio";
 
-import imageprofile from '../../assets/images/weprofile-400.png'
-
 const ContactData = contactPageData.contactSection;
 const blogSection = contactPageData.blogSection;
 const addressSection = contactPageData.addressSection;
@@ -28,8 +26,7 @@ class Contact extends Component {
             <div className="contact-heading-div">
               <div className="contact-heading-img-div">
                 <img
-                  // src={require(`../../assets/images/${ContactData["profile_image_path"]}`)}
-                  src={imageprofile}
+                  src={require(`../../assets/images/${ContactData["profile_image_path"]}`).default}
                   alt=""
                   width='400'
                   height='570'

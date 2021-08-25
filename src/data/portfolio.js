@@ -1,3 +1,4 @@
+
 /* Change this file to get your personal Porfolio */
 
 // Website related settings
@@ -304,12 +305,14 @@ const competitiveSites = {
   ],
 };
 
+
+
 const degrees = {
   degrees: [
     {
       title: "King Mongkut's University of Technology North Bangkok",
       subtitle: "B.Sc. in Material Handling Engineering",
-      logo_path: "logo_kmutnb.png",
+      logo_path: 'logo_kmutnb.png',
       alt_name: "Werayoot Kunphai",
       duration: "March 2010 - December 2014",
       cgpa: "2.96 / 4.00",
@@ -419,12 +422,12 @@ const experience = {
           title: "Software Engineer",
           company: "Magnecomp Precision Technology PCL.",
           company_url: "https://www.magnecomp.tdk.com/",
-          logo_path: "TDK_logo.png",
+          logo_path: "TDK_logo.jpeg",
           duration: "Nov 2018 - Nov 2020",
           location: "Ayuthaya, Thailand",
           description:
             "Software development, design, debug applications and create a document for knowledge sharing, Implement add a new feature on applications",
-          color: "#132CAB",
+          color: "#000000",
         },
 		    {
           title: "Engineer",
@@ -446,7 +449,7 @@ const experience = {
           title: "Thai Survive",
           company: "ThaiSurvive",
           company_url: "waiting for site deploy",
-          logo_path: "thaisuvive_logo.png",
+          logo_path: "Thaisurvie_logo.png",
           duration: "August 2021 - PRESENT",
           location: "Work From Home",
           description:
@@ -470,7 +473,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "weprofile-400.png",
+    profile_image_path: "weprofile-300.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours.",
   },

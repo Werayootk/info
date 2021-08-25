@@ -14,7 +14,7 @@ const greeting = {
   subTitle:
     "An aspiring developer who loves to take on new projects and explore new technology that challenges his skills.",
   resumeLink:
-    "https://onedrive.live.com/edit.aspx?cid=c324fb21999d9eb1&page=view&resid=C324FB21999D9EB1!632&parId=C324FB21999D9EB1!101&app=Word&wacqt=sharedby",
+    "https://drive.google.com/drive/folders/1sruVORQkCruRjx7lBxjXO5lGjX_VKuWQ?usp=sharing",
   portfolio_repository: "https://github.com/Werayootk",
 };
 

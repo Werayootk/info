@@ -202,13 +202,6 @@ const skills = {
           },
         },
         {
-          skillName: "Prisma",
-          fontAwesomeClassname: "simple-icons:prisma",
-          style: {
-            color: "#2D3748",
-          },
-        },
-        {
           skillName: "Jest",
           fontAwesomeClassname: "simple-icons:jest",
           style: {

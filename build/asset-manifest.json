@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/demo-portfolio/static/css/main.b1feaa36.chunk.css",
-    "main.js": "/demo-portfolio/static/js/main.f798c563.chunk.js",
-    "main.js.map": "/demo-portfolio/static/js/main.f798c563.chunk.js.map",
+    "main.css": "/demo-portfolio/static/css/main.67995e0a.chunk.css",
+    "main.js": "/demo-portfolio/static/js/main.246298ef.chunk.js",
+    "main.js.map": "/demo-portfolio/static/js/main.246298ef.chunk.js.map",
     "runtime-main.js": "/demo-portfolio/static/js/runtime-main.12f9f6a8.js",
     "runtime-main.js.map": "/demo-portfolio/static/js/runtime-main.12f9f6a8.js.map",
     "static/js/2.6d0ef942.chunk.js": "/demo-portfolio/static/js/2.6d0ef942.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.fa931ec5.chunk.js": "/demo-portfolio/static/js/3.fa931ec5.chunk.js",
     "static/js/3.fa931ec5.chunk.js.map": "/demo-portfolio/static/js/3.fa931ec5.chunk.js.map",
     "index.html": "/demo-portfolio/index.html",
-    "static/css/main.b1feaa36.chunk.css.map": "/demo-portfolio/static/css/main.b1feaa36.chunk.css.map",
+    "static/css/main.67995e0a.chunk.css.map": "/demo-portfolio/static/css/main.67995e0a.chunk.css.map",
     "static/js/2.6d0ef942.chunk.js.LICENSE.txt": "/demo-portfolio/static/js/2.6d0ef942.chunk.js.LICENSE.txt",
     "static/media/index.css": "/demo-portfolio/static/media/Montserrat-Regular.3cd78665.ttf",
     "static/media/Thaisurvie_logo.png": "/demo-portfolio/static/media/Thaisurvie_logo.1257fcea.png",
@@ -20,12 +20,12 @@
     "static/media/developerActivity.svg": "/demo-portfolio/static/media/developerActivity.2c0445ca.svg",
     "static/media/education.svg": "/demo-portfolio/static/media/education.8b0258a1.svg",
     "static/media/experience.svg": "/demo-portfolio/static/media/experience.9aa990f8.svg",
-    "static/media/all.css": "/demo-portfolio/static/media/fa-solid-900.decfdcb6.svg",
+    "static/media/all.css": "/demo-portfolio/static/media/fa-solid-900.d93bcbbb.eot",
     "static/media/feelingProud.svg": "/demo-portfolio/static/media/feelingProud.61bf63c3.svg",
     "static/media/fullstack.svg": "/demo-portfolio/static/media/fullstack.8fd53fb8.svg",
     "static/media/harvard_logo.png": "/demo-portfolio/static/media/harvard_logo.7f116aa4.png",
     "static/media/logo_kmutnb.png": "/demo-portfolio/static/media/logo_kmutnb.5a4bca9f.png",
-    "static/media/mmct_logo.svg": "/demo-portfolio/static/media/mmct_logo.ac82629e.svg",
+    "static/media/mmct_logo.svg": "/demo-portfolio/static/media/mmct_logo.dbe21cf4.svg",
     "static/media/moon.svg": "/demo-portfolio/static/media/moon.e9852ed5.svg",
     "static/media/projects_image.svg": "/demo-portfolio/static/media/projects_image.fa5ff5db.svg",
     "static/media/skill.svg": "/demo-portfolio/static/media/skill.35a14766.svg",
@@ -45,7 +45,7 @@
   "entrypoints": [
     "static/js/runtime-main.12f9f6a8.js",
     "static/js/2.6d0ef942.chunk.js",
-    "static/css/main.b1feaa36.chunk.css",
-    "static/js/main.f798c563.chunk.js"
+    "static/css/main.67995e0a.chunk.css",
+    "static/js/main.246298ef.chunk.js"
   ]
 }

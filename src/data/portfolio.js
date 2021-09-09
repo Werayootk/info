@@ -10,7 +10,7 @@ const settings = {
 const greeting = {
   title: "Werayoot kunphai",
   logo_name: "Werayoot kunphai",
-  nickname: "Theon",
+  nickname: "Toon",
   subTitle:
     "An aspiring developer who loves to take on new projects and explore new technology that challenges his skills.",
   resumeLink:
@@ -133,13 +133,13 @@ const skills = {
             color: "#339933",
           },
         },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
+        // {
+        //   skillName: "NPM",
+        //   fontAwesomeClassname: "simple-icons:npm",
+        //   style: {
+        //     color: "#CB3837",
+        //   },
+        // },
         {
           skillName: "redux",
           fontAwesomeClassname: "simple-icons:redux",
@@ -175,13 +175,13 @@ const skills = {
             color: "#CC2927",
           },
         },
-        {
-          skillName: "MySQL",
-          fontAwesomeClassname: "simple-icons:mysql",
-          style: {
-            color: "#4479A1",
-          },
-        },
+        // {
+        //   skillName: "MySQL",
+        //   fontAwesomeClassname: "simple-icons:mysql",
+        //   style: {
+        //     color: "#4479A1",
+        //   },
+        // },
         {
           skillName: "FireBase",
           fontAwesomeClassname: "simple-icons:firebase",
@@ -189,27 +189,27 @@ const skills = {
             color: "#FFCA28",
           },
         },
-        {
-          skillName: "ElasticSearch",
-          fontAwesomeClassname: "logos:elasticsearch",
-          style: {
-            color: "#005571",
-          },
-        },
-        {
-          skillName: "Sequelize",
-          fontAwesomeClassname: "simple-icons:sequelize",
-          style: {
-            color: "#52B0E7",
-          },
-        },
-        {
-          skillName: "Prisma",
-          fontAwesomeClassname: "simple-icons:prisma",
-          style: {
-            color: "#2D3748",
-          },
-        },
+        // {
+        //   skillName: "ElasticSearch",
+        //   fontAwesomeClassname: "logos:elasticsearch",
+        //   style: {
+        //     color: "#005571",
+        //   },
+        // },
+        // {
+        //   skillName: "Sequelize",
+        //   fontAwesomeClassname: "simple-icons:sequelize",
+        //   style: {
+        //     color: "#52B0E7",
+        //   },
+        // },
+        // {
+        //   skillName: "Prisma",
+        //   fontAwesomeClassname: "simple-icons:prisma",
+        //   style: {
+        //     color: "#2D3748",
+        //   },
+        // },
         {
           skillName: "GraphQL",
           fontAwesomeClassname: "simple-icons:graphql",
@@ -217,20 +217,20 @@ const skills = {
             color: "#E434AA",
           },
         },
-        {
-          skillName: "Jest",
-          fontAwesomeClassname: "simple-icons:jest",
-          style: {
-            color: "#C21325",
-          },
-        },
-        {
-          skillName: "Chai",
-          fontAwesomeClassname: "simple-icons:chai",
-          style: {
-            color: "#A30701",
-          },
-        },
+        // {
+        //   skillName: "Jest",
+        //   fontAwesomeClassname: "simple-icons:jest",
+        //   style: {
+        //     color: "#C21325",
+        //   },
+        // },
+        // {
+        //   skillName: "Chai",
+        //   fontAwesomeClassname: "simple-icons:chai",
+        //   style: {
+        //     color: "#A30701",
+        //   },
+        // },
         {
           skillName: "Postman",
           fontAwesomeClassname: "simple-icons:postman",
@@ -238,13 +238,13 @@ const skills = {
             color: "#FF6C37",
           },
         },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#2496ED",
-          },
-        },
+        // {
+        //   skillName: "Docker",
+        //   fontAwesomeClassname: "simple-icons:docker",
+        //   style: {
+        //     color: "#2496ED",
+        //   },
+        // },
       ],
     },
     {
@@ -283,7 +283,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "",
+      profileLink: "https://www.hackerrank.com/werayoot58001",
     },
     {
       siteName: "Codechef",
@@ -291,7 +291,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "",
+      profileLink: "https://www.codechef.com/users/wedev",
     },
     {
       siteName: "Codeforces",
@@ -299,7 +299,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB",
       },
-      profileLink: "",
+      profileLink: "https://codeforces.com/profile/wedev",
     },
     {
       siteName: "Hackerearth",
@@ -307,7 +307,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "",
+      profileLink: "https://www.hackerearth.com/@werayoot5800",
     },
     {
       siteName: "Leetcode",
@@ -315,7 +315,7 @@ const competitiveSites = {
       style: {
         color: "#FFA116",
       },
-      profileLink: "",
+      profileLink: "https://leetcode.com/Werayootk/",
     },
   ],
 };

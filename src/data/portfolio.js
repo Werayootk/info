@@ -190,6 +190,13 @@ const skills = {
           },
         },
         {
+          skillName: "ElasticSearch",
+          fontAwesomeClassname: "logos:elasticsearch",
+          style: {
+            color: "#005571",
+          },
+        },
+        {
           skillName: "Sequelize",
           fontAwesomeClassname: "simple-icons:sequelize",
           style: {
@@ -398,6 +405,15 @@ const certifications = {
       logo_path: "udemy-logo.svg",
       certificate_link:
         "https://www.udemy.com/certificate/UC-6f1367d0-d85d-45f5-916d-39ba28b46d33/",
+      alt_name: "-",
+      color_code: "#A435F0",
+    },
+    {
+      title: "Complete Guide to Elasticsearch",
+      subtitle: "- Bo Andersen",
+      logo_path: "udemy-logo.svg",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-3382a820-4c7b-4fc1-adb8-aff771433ba2/",
       alt_name: "-",
       color_code: "#A435F0",
     },

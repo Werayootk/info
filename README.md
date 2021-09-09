@@ -26,7 +26,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![](https://github.com/Werayootk/React-Movie-TMDB/blob/main/images/movie.gif)
+![](https://github.com/Werayootk/demo-portfolio/blob/develop/images/portfolio.png)
 
 This project create for practice React call API skill.
 
@@ -53,20 +53,13 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/Your_username/React-Movie-TMDB.git
+   git clone https://github.com/Your_username/demo-portfolio.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
-3. Get API Key from
-```
-https://www.themoviedb.org/
-```
-4. In folder create new file `.env` for setup config to assign API_Key
-   ```
-   REACT_APP_API_KEY = API_KEY;
-   ```
+3. Set detail in file `portfolio.js` and `projects.json`
 
 <!-- How to Use Your Project -->
 ## How to Use Your Project
@@ -78,6 +71,11 @@ https://www.themoviedb.org/
 2. Access site by http://localhost:3000/
 ```
 http://localhost:3000/
+```
+3. How to deploy on gh-page
+
+```
+https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14
 ```
 
 <!-- Include Credits -->

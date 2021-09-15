@@ -1,4 +1,5 @@
 # Template Portfolio
+[Live Demo](https://werayootk.github.io/demo-portfolio/#/home)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -26,7 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![](https://github.com/Werayootk/demo-portfolio/blob/develop/images/portfolio.png)
+![](https://github.com/Werayootk/demo-portfolio/blob/main/images/portfolio.png)
 
 This project create for practice React call API skill.
 

@@ -54,8 +54,8 @@
             "iconifyClass": "logos:nodejs-icon"
           },
           {
-            "name": "MySQL",
-            "iconifyClass": "vscode-icons:file-type-mysql"
+            "name": "MongoDB",
+            "iconifyClass": "vscode-icons:file-type-mongo"
           }
         ]
       },

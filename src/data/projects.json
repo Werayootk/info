@@ -22,7 +22,7 @@
         "name": "AutoDelete.Activites.Extensions",
         "createdAt": "2021-04-02T02:53:03Z",
         "url": "https://github.com/Werayootk/AutoDelete.Activites.Extensions",
-        "description": "Liberty RPA UI-path support auto-delete files",
+        "description": "Liberty RPA UI-path support auto-delete files public on Nuget.org",
         "forkCount": 0,
         "stargazers": {
           "totalCount": 0
@@ -36,7 +36,7 @@
       },
       {
         "id": "3",
-        "name": "Tracking OK/NG process",
+        "name": "Tracking Reject process",
         "createdAt": "2021-08-12T06:25:02Z",
         "url": "https://github.com/Werayootk/MPT_Demo",
         "description": "This project has been created to report ok/ng on process manufacturing",

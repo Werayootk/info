@@ -317,6 +317,14 @@ const competitiveSites = {
       },
       profileLink: "https://leetcode.com/Werayootk/",
     },
+    {
+      siteName: "Codewars",
+      iconifyClassname: "simple-icons:codewars",
+      style: {
+        color: "#B1361E",
+      },
+      profileLink: "https://www.codewars.com/users/Werayootk",
+    },
   ],
 };
 

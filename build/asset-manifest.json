@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/demo-portfolio/static/css/main.67995e0a.chunk.css",
-    "main.js": "/demo-portfolio/static/js/main.99c2f928.chunk.js",
-    "main.js.map": "/demo-portfolio/static/js/main.99c2f928.chunk.js.map",
-    "runtime-main.js": "/demo-portfolio/static/js/runtime-main.12f9f6a8.js",
-    "runtime-main.js.map": "/demo-portfolio/static/js/runtime-main.12f9f6a8.js.map",
-    "static/js/2.6d0ef942.chunk.js": "/demo-portfolio/static/js/2.6d0ef942.chunk.js",
-    "static/js/2.6d0ef942.chunk.js.map": "/demo-portfolio/static/js/2.6d0ef942.chunk.js.map",
-    "static/js/3.fa931ec5.chunk.js": "/demo-portfolio/static/js/3.fa931ec5.chunk.js",
-    "static/js/3.fa931ec5.chunk.js.map": "/demo-portfolio/static/js/3.fa931ec5.chunk.js.map",
+    "main.css": "/demo-portfolio/static/css/main.febf5870.chunk.css",
+    "main.js": "/demo-portfolio/static/js/main.fb1300e2.chunk.js",
+    "main.js.map": "/demo-portfolio/static/js/main.fb1300e2.chunk.js.map",
+    "runtime-main.js": "/demo-portfolio/static/js/runtime-main.7bbeeb60.js",
+    "runtime-main.js.map": "/demo-portfolio/static/js/runtime-main.7bbeeb60.js.map",
+    "static/js/2.b81fe1ee.chunk.js": "/demo-portfolio/static/js/2.b81fe1ee.chunk.js",
+    "static/js/2.b81fe1ee.chunk.js.map": "/demo-portfolio/static/js/2.b81fe1ee.chunk.js.map",
+    "static/js/3.d4d97314.chunk.js": "/demo-portfolio/static/js/3.d4d97314.chunk.js",
+    "static/js/3.d4d97314.chunk.js.map": "/demo-portfolio/static/js/3.d4d97314.chunk.js.map",
     "index.html": "/demo-portfolio/index.html",
-    "static/css/main.67995e0a.chunk.css.map": "/demo-portfolio/static/css/main.67995e0a.chunk.css.map",
-    "static/js/2.6d0ef942.chunk.js.LICENSE.txt": "/demo-portfolio/static/js/2.6d0ef942.chunk.js.LICENSE.txt",
+    "static/css/main.febf5870.chunk.css.map": "/demo-portfolio/static/css/main.febf5870.chunk.css.map",
+    "static/js/2.b81fe1ee.chunk.js.LICENSE.txt": "/demo-portfolio/static/js/2.b81fe1ee.chunk.js.LICENSE.txt",
     "static/media/index.css": "/demo-portfolio/static/media/Montserrat-Regular.3cd78665.ttf",
     "static/media/Thaisurvie_logo.png": "/demo-portfolio/static/media/Thaisurvie_logo.1257fcea.png",
     "static/media/address_image.svg": "/demo-portfolio/static/media/address_image.ee6c2f85.svg",
@@ -43,9 +43,9 @@
     "static/media/weprofile.png": "/demo-portfolio/static/media/weprofile.e12a5f53.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.12f9f6a8.js",
-    "static/js/2.6d0ef942.chunk.js",
-    "static/css/main.67995e0a.chunk.css",
-    "static/js/main.99c2f928.chunk.js"
+    "static/js/runtime-main.7bbeeb60.js",
+    "static/js/2.b81fe1ee.chunk.js",
+    "static/css/main.febf5870.chunk.css",
+    "static/js/main.fb1300e2.chunk.js"
   ]
 }

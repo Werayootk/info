@@ -79,7 +79,7 @@ const skills = {
       skills: [
         "⚡ Building responsive website front end using React and CSS",
         "⚡ Implementing secure access to database",
-        "⚡ Creating application backend in .Net Core and NodeJS",
+        "⚡ Creating application backend in .Net and NodeJS",
       ],
       softwareSkills: [
         {
@@ -155,7 +155,7 @@ const skills = {
           },
         },
         {
-          skillName: ".Net Core",
+          skillName: ".Net",
           fontAwesomeClassname: "mdi:dot-net",
           style: {
             color: "#5C2D91",
@@ -175,20 +175,20 @@ const skills = {
             color: "#CC2927",
           },
         },
-        // {
-        //   skillName: "MySQL",
-        //   fontAwesomeClassname: "simple-icons:mysql",
-        //   style: {
-        //     color: "#4479A1",
-        //   },
-        // },
         {
-          skillName: "FireBase",
-          fontAwesomeClassname: "simple-icons:firebase",
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
           style: {
-            color: "#FFCA28",
+            color: "#4479A1",
           },
         },
+        // {
+        //   skillName: "FireBase",
+        //   fontAwesomeClassname: "simple-icons:firebase",
+        //   style: {
+        //     color: "#FFCA28",
+        //   },
+        // },
         // {
         //   skillName: "ElasticSearch",
         //   fontAwesomeClassname: "logos:elasticsearch",
@@ -217,20 +217,20 @@ const skills = {
             color: "#E434AA",
           },
         },
-        // {
-        //   skillName: "Jest",
-        //   fontAwesomeClassname: "simple-icons:jest",
-        //   style: {
-        //     color: "#C21325",
-        //   },
-        // },
-        // {
-        //   skillName: "Chai",
-        //   fontAwesomeClassname: "simple-icons:chai",
-        //   style: {
-        //     color: "#A30701",
-        //   },
-        // },
+        {
+          skillName: "Jest",
+          fontAwesomeClassname: "simple-icons:jest",
+          style: {
+            color: "#C21325",
+          },
+        },
+        {
+          skillName: "Chai",
+          fontAwesomeClassname: "simple-icons:chai",
+          style: {
+            color: "#A30701",
+          },
+        },
         {
           skillName: "Postman",
           fontAwesomeClassname: "simple-icons:postman",
@@ -238,13 +238,55 @@ const skills = {
             color: "#FF6C37",
           },
         },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            color: "#2496ED",
+          },
+        },
         // {
-        //   skillName: "Docker",
-        //   fontAwesomeClassname: "simple-icons:docker",
+        //   skillName: "Go(basic)",
+        //   fontAwesomeClassname: "vscode-icons:file-type-go-gopher",
         //   style: {
-        //     color: "#2496ED",
+        //     color: "#rgb(106, 215, 229)",
         //   },
         // },
+        {
+          skillName: "Github Actions",
+          fontAwesomeClassname: "logos:github-actions",
+          style: {
+            color: "#85B3DF",
+          },
+        },
+        {
+          skillName: "Github",
+          fontAwesomeClassname: "icon-park:github",
+          style: {
+            color: "#000",
+          },
+        },
+        {
+          skillName: "Apache Jmeter",
+          fontAwesomeClassname: "simple-icons:apachejmeter",
+          style: {
+            color: "#000",
+          },
+        },
+        {
+          skillName: "NextJS",
+          fontAwesomeClassname: "logos:nextjs",
+          style: {
+            color: "#000",
+          },
+        },
+        {
+          skillName: "NestJS",
+          fontAwesomeClassname: "logos:nestjs",
+          style: {
+            color: "rgb(224, 35, 78)",
+          },
+        },
       ],
     },
     {
@@ -328,21 +370,20 @@ const competitiveSites = {
   ],
 };
 
-
-
 const degrees = {
   degrees: [
     {
-      title: "King Mongkut's University of Technology North Bangkok",
-      subtitle: "B.Sc. in Material Handling Engineering",
-      logo_path: 'logo_kmutnb.png',
+      title: "Software Park CodeCamp Full-stack JavaScript",
+      subtitle: "BootCamp Coding Academy",
+      logo_path: "software_park_logo.png",
       alt_name: "Werayoot Kunphai",
-      duration: "March 2010 - December 2014",
-      cgpa: "2.96 / 4.00",
+      duration: "October 2021 - March 2022",
+      cgpa: "-",
       descriptions: [
-        "⚡ I have studied in mechanical engineer",
+        "⚡ I have studied Design: UI/UX design Figma, Technologies: React, Redux, Node.js, MySQL, Linux, Docker",
+        "⚡ Apart from this, I have done courses on Full Stack Development.",
       ],
-      website_link: "https://kmutnb.ac.th/",
+      website_link: "https://getcodecamp.com/courses/codecamp-online-fullstack-javascript/",
     },
     {
       title: "CS50's Introduction to Computer Science",
@@ -356,6 +397,18 @@ const degrees = {
         "⚡ Apart from this, I have done courses on Full Stack Development.",
       ],
       website_link: "https://www.edx.org/",
+    },
+    {
+      title: "King Mongkut's University of Technology North Bangkok",
+      subtitle: "B.Sc. in Material Handling Engineering",
+      logo_path: 'logo_kmutnb.png',
+      alt_name: "Werayoot Kunphai",
+      duration: "March 2010 - December 2014",
+      cgpa: "2.96 / 4.00",
+      descriptions: [
+        "⚡ I have studied in mechanical engineer",
+      ],
+      website_link: "https://kmutnb.ac.th/",
     },
   ],
 };

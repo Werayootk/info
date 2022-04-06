@@ -86,10 +86,10 @@
       },
       {
         "id": "5",
-        "name": "MERN-Clone-Netflix",
-        "createdAt": "2021-08-30T11:01:28Z",
-        "url": "https://github.com/Werayootk/MERN-Clone-Netflix",
-        "description": "This project has been created to demo clone netflix",
+        "name": "Online Car Rental",
+        "createdAt": "2022-01-11T09:26:49Z",
+        "url": "https://github.com/Werayootk/Online_Car_Rental_System",
+        "description": "This project has been created to demo Online Car Rental System",
         "forkCount": 0,
         "stargazers": {
           "totalCount": 0
@@ -98,224 +98,14 @@
           {
             "name": "React",
             "iconifyClass": "logos:react"
-          },
-          {
-            "name": "MongoDB",
-            "iconifyClass": "vscode-icons:file-type-mongo"
           },
           {
             "name": "NodeJS",
             "iconifyClass": "logos:nodejs-icon"
-          }
-        ]
-      },
-      {
-        "id": "6",
-        "name": "MERN-GraphQL-MovieMaker",
-        "createdAt": "2021-09-02T00:33:09Z",
-        "url": "https://github.com/Werayootk/MERN-GraphQL-MovieMaker",
-        "description": "This project has been created to practice GraphQL",
-        "forkCount": 0,
-        "stargazers": {
-          "totalCount": 0
-        },
-        "languages": [
-          {
-            "name": "React",
-            "iconifyClass": "logos:react"
           },
           {
-            "name": "MongoDB",
-            "iconifyClass": "vscode-icons:file-type-mongo"
-          },
-          {
-            "name": "NodeJS",
-            "iconifyClass": "logos:nodejs-icon"
-          }
-        ]
-      },
-      {
-        "id": "7",
-        "name": "MERN-Filter",
-        "createdAt": "2021-09-04T04:08:57Z",
-        "url": "https://github.com/Werayootk/MERN-Filter",
-        "description": "This project has been created to practice How to filter and sort",
-        "forkCount": 0,
-        "stargazers": {
-          "totalCount": 0
-        },
-        "languages": [
-          {
-            "name": "React",
-            "iconifyClass": "logos:react"
-          },
-          {
-            "name": "MongoDB",
-            "iconifyClass": "vscode-icons:file-type-mongo"
-          },
-          {
-            "name": "NodeJS",
-            "iconifyClass": "logos:nodejs-icon"
-          }
-        ]
-      },
-      {
-        "id": "8",
-        "name": "RECIPE-APP",
-        "createdAt": "2021-09-03T00:03:51Z",
-        "url": "https://github.com/Werayootk/RECIPE-APP",
-        "description": "This project has been created to practice use redux-saga",
-        "forkCount": 0,
-        "stargazers": {
-          "totalCount": 0
-        },
-        "languages": [
-          {
-            "name": "React",
-            "iconifyClass": "logos:react"
-          },
-          {
-            "name": "Redux-saga",
-            "iconifyClass": "logos:redux-saga"
-          }
-        ]
-      },
-      {
-        "id": "9",
-        "name": "React-Movie-TMDB",
-        "createdAt": "2021-09-04T00:31:42Z",
-        "url": "https://github.com/Werayootk/React-Movie-TMDB",
-        "description": "This project has been created to practice how to call external API",
-        "forkCount": 0,
-        "stargazers": {
-          "totalCount": 0
-        },
-        "languages": [
-          {
-            "name": "React",
-            "iconifyClass": "logos:react"
-          }
-        ]
-      },
-      {
-        "id": "10",
-        "name": "React-COVID-19-Tracker",
-        "createdAt": "2021-09-04T00:52:29Z",
-        "url": "https://github.com/Werayootk/React-COVID-19-Tracker",
-        "description": "This project has been created to practice how to call external API",
-        "forkCount": 0,
-        "stargazers": {
-          "totalCount": 0
-        },
-        "languages": [
-          {
-            "name": "React",
-            "iconifyClass": "logos:react"
-          }
-        ]
-      },
-      {
-        "id": "11",
-        "name": "React-Maps-Travel",
-        "createdAt": "2021-09-04T02:36:30Z",
-        "url": "https://github.com/Werayootk/React-Maps-Travel",
-        "description": "This project has been created to practice how to call external API",
-        "forkCount": 0,
-        "stargazers": {
-          "totalCount": 0
-        },
-        "languages": [
-          {
-            "name": "React",
-            "iconifyClass": "logos:react"
-          }
-        ]
-      },
-      {
-        "id": "12",
-        "name": "React-eCommence",
-        "createdAt": "2021-09-04T13:16:32Z",
-        "url": "https://github.com/Werayootk/React-eCommence",
-        "description": "This project has been created to practice how to use firebase",
-        "forkCount": 0,
-        "stargazers": {
-          "totalCount": 0
-        },
-        "languages": [
-          {
-            "name": "React",
-            "iconifyClass": "logos:react"
-          },
-          {
-            "name": "FireBase",
-            "iconifyClass": "logos:firebase"
-          }
-        ]
-      },
-      {
-        "id": "13",
-        "name": "React-food-order",
-        "createdAt": "2021-09-03T09:12:39Z",
-        "url": "https://github.com/Werayootk/React-food-order",
-        "description": "This project has been created to practice how to use firebase",
-        "forkCount": 0,
-        "stargazers": {
-          "totalCount": 0
-        },
-        "languages": [
-          {
-            "name": "React",
-            "iconifyClass": "logos:react"
-          },
-          {
-            "name": "FireBase",
-            "iconifyClass": "logos:firebase"
-          }
-        ]
-      },
-      {
-        "id": "14",
-        "name": "Redux-book-store",
-        "createdAt": "2021-09-03T09:30:44Z",
-        "url": "https://github.com/Werayootk/Redux-book-store",
-        "description": "This project has been created to practice how to use firebase and redux",
-        "forkCount": 0,
-        "stargazers": {
-          "totalCount": 0
-        },
-        "languages": [
-          {
-            "name": "React",
-            "iconifyClass": "logos:react"
-          },
-          {
-            "name": "Redux",
-            "iconifyClass": "logos:redux"
-          },
-          {
-            "name": "FireBase",
-            "iconifyClass": "logos:firebase"
-          }
-        ]
-      },
-      {
-        "id": "15",
-        "name": "React-router-quote-comment",
-        "createdAt": "2021-09-03T09:38:42Z",
-        "url": "https://github.com/Werayootk/React-router-quote-comment",
-        "description": "This project has been created to practice how to use firebase",
-        "forkCount": 0,
-        "stargazers": {
-          "totalCount": 0
-        },
-        "languages": [
-          {
-            "name": "React",
-            "iconifyClass": "logos:react"
-          },
-          {
-            "name": "FireBase",
-            "iconifyClass": "logos:firebase"
+            "name": "MySQL",
+            "iconifyClass": "simple-icons:mysql"
           }
         ]
       }

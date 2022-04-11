@@ -147,13 +147,13 @@ const skills = {
             color: "#764ABC",
           },
         },
-        {
-          skillName: "redux-saga",
-          fontAwesomeClassname: "simple-icons:reduxsaga",
-          style: {
-            color: "#999999",
-          },
-        },
+        // {
+        //   skillName: "redux-saga",
+        //   fontAwesomeClassname: "simple-icons:reduxsaga",
+        //   style: {
+        //     color: "#999999",
+        //   },
+        // },
         {
           skillName: ".Net",
           fontAwesomeClassname: "mdi:dot-net",
@@ -217,20 +217,20 @@ const skills = {
             color: "#E434AA",
           },
         },
-        {
-          skillName: "Jest",
-          fontAwesomeClassname: "simple-icons:jest",
-          style: {
-            color: "#C21325",
-          },
-        },
-        {
-          skillName: "Chai",
-          fontAwesomeClassname: "simple-icons:chai",
-          style: {
-            color: "#A30701",
-          },
-        },
+        // {
+        //   skillName: "Jest",
+        //   fontAwesomeClassname: "simple-icons:jest",
+        //   style: {
+        //     color: "#C21325",
+        //   },
+        // },
+        // {
+        //   skillName: "Chai",
+        //   fontAwesomeClassname: "simple-icons:chai",
+        //   style: {
+        //     color: "#A30701",
+        //   },
+        // },
         {
           skillName: "Postman",
           fontAwesomeClassname: "simple-icons:postman",
@@ -252,13 +252,13 @@ const skills = {
         //     color: "#rgb(106, 215, 229)",
         //   },
         // },
-        {
-          skillName: "Github Actions",
-          fontAwesomeClassname: "logos:github-actions",
-          style: {
-            color: "#85B3DF",
-          },
-        },
+        // {
+        //   skillName: "Github Actions",
+        //   fontAwesomeClassname: "logos:github-actions",
+        //   style: {
+        //     color: "#85B3DF",
+        //   },
+        // },
         {
           skillName: "Github",
           fontAwesomeClassname: "icon-park:github",
@@ -266,27 +266,27 @@ const skills = {
             color: "#000",
           },
         },
-        {
-          skillName: "Apache Jmeter",
-          fontAwesomeClassname: "simple-icons:apachejmeter",
-          style: {
-            color: "#000",
-          },
-        },
-        {
-          skillName: "NextJS",
-          fontAwesomeClassname: "logos:nextjs",
-          style: {
-            color: "#000",
-          },
-        },
-        {
-          skillName: "NestJS",
-          fontAwesomeClassname: "logos:nestjs",
-          style: {
-            color: "rgb(224, 35, 78)",
-          },
-        },
+        // {
+        //   skillName: "Apache Jmeter",
+        //   fontAwesomeClassname: "simple-icons:apachejmeter",
+        //   style: {
+        //     color: "#000",
+        //   },
+        // },
+        // {
+        //   skillName: "NextJS",
+        //   fontAwesomeClassname: "logos:nextjs",
+        //   style: {
+        //     color: "#000",
+        //   },
+        // },
+        // {
+        //   skillName: "NestJS",
+        //   fontAwesomeClassname: "logos:nestjs",
+        //   style: {
+        //     color: "rgb(224, 35, 78)",
+        //   },
+        // },
       ],
     },
     {

@@ -1,5 +1,5 @@
 # Template Portfolio
-[Live Demo](https://werayootk.github.io/demo-portfolio/#/home)
+[Live Demo](https://werayootk.github.io/info/#/home)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -54,7 +54,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/Your_username/demo-portfolio.git
+   git clone https://github.com/Your_username/info.git
    ```
 2. Install NPM packages
    ```sh
@@ -91,4 +91,4 @@ Your Name - [@wedevtech](https://twitter.com/wedevtech) - werayoot5800@gmail.com
 
 Project Link: [https://github.com/Werayootk](https://github.com/Werayootk)
 
-Web site [https://werayootk.github.io/demo-portfolio/#/home](https://werayootk.github.io/demo-portfolio/#/home)
+Web site [https://werayootk.github.io/info/#/home](https://werayootk.github.io/info/#/home)

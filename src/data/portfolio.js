@@ -133,13 +133,13 @@ const skills = {
             color: "#339933",
           },
         },
-        // {
-        //   skillName: "NPM",
-        //   fontAwesomeClassname: "simple-icons:npm",
-        //   style: {
-        //     color: "#CB3837",
-        //   },
-        // },
+        {
+          skillName: "NPM",
+          fontAwesomeClassname: "simple-icons:npm",
+          style: {
+            color: "#CB3837",
+          },
+        },
         {
           skillName: "redux",
           fontAwesomeClassname: "simple-icons:redux",
@@ -147,18 +147,170 @@ const skills = {
             color: "#764ABC",
           },
         },
-        // {
-        //   skillName: "redux-saga",
-        //   fontAwesomeClassname: "simple-icons:reduxsaga",
-        //   style: {
-        //     color: "#999999",
-        //   },
-        // },
+        {
+          skillName: "redux-saga",
+          fontAwesomeClassname: "simple-icons:reduxsaga",
+          style: {
+            color: "#999999",
+          },
+        },
         {
           skillName: ".Net",
           fontAwesomeClassname: "mdi:dot-net",
           style: {
             color: "#5C2D91",
+          },
+        },
+        {
+          skillName: "GraphQL",
+          fontAwesomeClassname: "simple-icons:graphql",
+          style: {
+            color: "#E434AA",
+          },
+        },
+        {
+          skillName: "Jest",
+          fontAwesomeClassname: "simple-icons:jest",
+          style: {
+            color: "#C21325",
+          },
+        },
+        {
+          skillName: "Postman",
+          fontAwesomeClassname: "simple-icons:postman",
+          style: {
+            color: "#FF6C37",
+          },
+        },
+        {
+          skillName: "Go(basic)",
+          fontAwesomeClassname: "vscode-icons:file-type-go-gopher",
+          style: {
+            color: "#rgb(106, 215, 229)",
+          },
+        },
+        {
+          skillName: "Github",
+          fontAwesomeClassname: "icon-park:github",
+          style: {
+            color: "#000",
+          },
+        },
+        {
+          skillName: "Gitlab",
+          fontAwesomeClassname: "logos:gitlab",
+          style: {
+            color: "#000",
+          },
+        },
+        {
+          skillName: "NextJS",
+          fontAwesomeClassname: "teenyicons:nextjs-outline",
+          style: {
+            color: "#000",
+          },
+        },
+        {
+          skillName: "NestJS",
+          fontAwesomeClassname: "logos:nestjs",
+          style: {
+            color: "rgb(224, 35, 78)",
+          },
+        },
+      ],
+    },
+    {
+      title: "Data Science & AI",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+        "⚡ Experience of working with Computer Vision and NLP projects",
+        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Scikit-learn",
+          fontAwesomeClassname: "simple-icons:scikit-learn",
+          style: {
+            backgroundColor: "white",
+            color: "#D00000",
+          },
+        },
+        {
+          skillName: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            backgroundColor: "white",
+            color: "#FF6C37",
+          },
+        },
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "logos-pytorch",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+      ],
+    },
+    {
+      title: "Cloud Infra-Architecture",
+      fileName: "CloudInfraImg",
+      skills: [
+        "⚡ Experience working on multiple cloud platforms",
+        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        "⚡ Deploying deep learning models on cloud to use on mobile devices",
+        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+      ],
+      softwareSkills: [
+        {
+          skillName: "GCP",
+          fontAwesomeClassname: "simple-icons:googlecloud",
+          style: {
+            color: "#4285F4",
+          },
+        },
+        {
+          skillName: "AWS",
+          fontAwesomeClassname: "simple-icons:amazonaws",
+          style: {
+            color: "#FF9900",
+          },
+        },
+        {
+          skillName: "Azure",
+          fontAwesomeClassname: "simple-icons:microsoftazure",
+          style: {
+            color: "#0089D6",
+          },
+        },
+        {
+          skillName: "Firebase",
+          fontAwesomeClassname: "simple-icons:firebase",
+          style: {
+            color: "#FFCA28",
+          },
+        },
+        {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#336791",
           },
         },
         {
@@ -176,117 +328,61 @@ const skills = {
           },
         },
         {
+          skillName: "Redis",
+          fontAwesomeClassname: "logos:redis",
+          style: {
+            color: "#CC2927",
+          },
+        },
+        {
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
           style: {
             color: "#4479A1",
           },
         },
-        // {
-        //   skillName: "FireBase",
-        //   fontAwesomeClassname: "simple-icons:firebase",
-        //   style: {
-        //     color: "#FFCA28",
-        //   },
-        // },
-        // {
-        //   skillName: "ElasticSearch",
-        //   fontAwesomeClassname: "logos:elasticsearch",
-        //   style: {
-        //     color: "#005571",
-        //   },
-        // },
-        // {
-        //   skillName: "Sequelize",
-        //   fontAwesomeClassname: "simple-icons:sequelize",
-        //   style: {
-        //     color: "#52B0E7",
-        //   },
-        // },
-        // {
-        //   skillName: "Prisma",
-        //   fontAwesomeClassname: "simple-icons:prisma",
-        //   style: {
-        //     color: "#2D3748",
-        //   },
-        // },
         {
-          skillName: "GraphQL",
-          fontAwesomeClassname: "simple-icons:graphql",
+          skillName: "ElasticSearch",
+          fontAwesomeClassname: "logos:elasticsearch",
           style: {
-            color: "#E434AA",
+            color: "#005571",
           },
         },
-        // {
-        //   skillName: "Jest",
-        //   fontAwesomeClassname: "simple-icons:jest",
-        //   style: {
-        //     color: "#C21325",
-        //   },
-        // },
-        // {
-        //   skillName: "Chai",
-        //   fontAwesomeClassname: "simple-icons:chai",
-        //   style: {
-        //     color: "#A30701",
-        //   },
-        // },
         {
-          skillName: "Postman",
-          fontAwesomeClassname: "simple-icons:postman",
+          skillName: "Kafka",
+          fontAwesomeClassname: "logos:kafka",
           style: {
-            color: "#FF6C37",
+            color: "#005571",
+          },
+        },
+        {
+          skillName: "Spark",
+          fontAwesomeClassname: "cib:apache-spark",
+          style: {
+            color: "#FF9900",
+          },
+        },
+        {
+          skillName: "mlflow",
+          fontAwesomeClassname: "simple-icons:mlflow",
+          style: {
+            color: "#326CE5",
           },
         },
         {
           skillName: "Docker",
           fontAwesomeClassname: "simple-icons:docker",
           style: {
-            color: "#2496ED",
+            color: "#1488C6",
           },
         },
-        // {
-        //   skillName: "Go(basic)",
-        //   fontAwesomeClassname: "vscode-icons:file-type-go-gopher",
-        //   style: {
-        //     color: "#rgb(106, 215, 229)",
-        //   },
-        // },
-        // {
-        //   skillName: "Github Actions",
-        //   fontAwesomeClassname: "logos:github-actions",
-        //   style: {
-        //     color: "#85B3DF",
-        //   },
-        // },
         {
-          skillName: "Github",
-          fontAwesomeClassname: "icon-park:github",
+          skillName: "Kubernetes",
+          fontAwesomeClassname: "simple-icons:kubernetes",
           style: {
-            color: "#000",
+            color: "#326CE5",
           },
         },
-        // {
-        //   skillName: "Apache Jmeter",
-        //   fontAwesomeClassname: "simple-icons:apachejmeter",
-        //   style: {
-        //     color: "#000",
-        //   },
-        // },
-        // {
-        //   skillName: "NextJS",
-        //   fontAwesomeClassname: "logos:nextjs",
-        //   style: {
-        //     color: "#000",
-        //   },
-        // },
-        // {
-        //   skillName: "NestJS",
-        //   fontAwesomeClassname: "logos:nestjs",
-        //   style: {
-        //     color: "rgb(224, 35, 78)",
-        //   },
-        // },
       ],
     },
     {
@@ -327,30 +423,30 @@ const competitiveSites = {
       },
       profileLink: "https://www.hackerrank.com/werayoot58001",
     },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/wedev",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "https://codeforces.com/profile/wedev",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@werayoot5800",
-    },
+    // {
+    //   siteName: "Codechef",
+    //   iconifyClassname: "simple-icons:codechef",
+    //   style: {
+    //     color: "#5B4638",
+    //   },
+    //   profileLink: "https://www.codechef.com/users/wedev",
+    // },
+    // {
+    //   siteName: "Codeforces",
+    //   iconifyClassname: "simple-icons:codeforces",
+    //   style: {
+    //     color: "#1F8ACB",
+    //   },
+    //   profileLink: "https://codeforces.com/profile/wedev",
+    // },
+    // {
+    //   siteName: "Hackerearth",
+    //   iconifyClassname: "simple-icons:hackerearth",
+    //   style: {
+    //     color: "#323754",
+    //   },
+    //   profileLink: "https://www.hackerearth.com/@werayoot5800",
+    // },
     {
       siteName: "Leetcode",
       iconifyClassname: "simple-icons:leetcode",
@@ -360,18 +456,38 @@ const competitiveSites = {
       profileLink: "https://leetcode.com/Werayootk/",
     },
     {
-      siteName: "Codewars",
-      iconifyClassname: "simple-icons:codewars",
+      siteName: "Kaggle",
+      iconifyClassname: "simple-icons:kaggle",
       style: {
-        color: "#B1361E",
+        color: "#20BEFF",
       },
-      profileLink: "https://www.codewars.com/users/Werayootk",
+      profileLink: "https://www.kaggle.com/werayootkunphai",
     },
+    // {
+    //   siteName: "Codewars",
+    //   iconifyClassname: "simple-icons:codewars",
+    //   style: {
+    //     color: "#B1361E",
+    //   },
+    //   profileLink: "https://www.codewars.com/users/Werayootk",
+    // },
   ],
 };
 
 const degrees = {
   degrees: [
+    {
+      title: "Chulalongkorn University",
+      subtitle: "Master's degree, faculty of computer engineering",
+      logo_path: "cu_logo.png",
+      alt_name: "Werayoot Kunphai",
+      duration: "Aug 2022 - Present",
+      cgpa: "-",
+      descriptions: [
+        "⚡ I have studied Computer Science: Data Science, Data Engineer tool and more.",
+      ],
+      website_link: "https://www.cp.eng.chula.ac.th/en/prospective/graduate/master-computerscience/",
+    },
     {
       title: "Software Park CodeCamp Full-stack JavaScript",
       subtitle: "BootCamp Coding Academy",
@@ -400,7 +516,7 @@ const degrees = {
     },
     {
       title: "King Mongkut's University of Technology North Bangkok",
-      subtitle: "B.Sc. in Material Handling Engineering",
+      subtitle: "B.Degree. in Material Handling Engineering",
       logo_path: 'logo_kmutnb.png',
       alt_name: "Werayoot Kunphai",
       duration: "March 2010 - December 2014",
@@ -493,11 +609,23 @@ const experience = {
       title: "Work",
       experiences: [
         {
+          title: "Full Stack Developer",
+          company: "Lansing Business Systems Co. Ltd",
+          company_url: "https://www.lansingbs.com/",
+          logo_path: "lbs_logo.svg",
+          duration: "Apr 2022 - PRESENT",
+          location: "Bangkok, Thailand",
+          description:
+            "Reviewed code, debugged problems and corrected issues. " +
+            "Developed clear specifications for project plans using customer requirements.",
+          color: "#20BEFF",
+        },
+        {
           title: "Software Developer",
           company: "Panasonic Management (Thailand) co. ltd",
           company_url: "https://www.panasonic.com/th/",
           logo_path: "panasonic_logo.png",
-          duration: "Nov 2020 - PRESENT",
+          duration: "Nov 2020 - Apr 2022",
           location: "Bangkok, Thailand",
           description:
             "Responsible for design, programming, test UAT script and maintain programming application.",
@@ -577,7 +705,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+669 47978993",
+    subtitle: "+669 49074665",
   },
 };
 

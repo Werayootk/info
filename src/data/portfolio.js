@@ -251,13 +251,13 @@ const skills = {
             color: "#FF6C37",
           },
         },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
+        // {
+        //   skillName: "PyTorch",
+        //   fontAwesomeClassname: "logos-pytorch",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //   },
+        // },
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
@@ -306,13 +306,13 @@ const skills = {
             color: "#FFCA28",
           },
         },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
+        // {
+        //   skillName: "PostgreSQL",
+        //   fontAwesomeClassname: "simple-icons:postgresql",
+        //   style: {
+        //     color: "#336791",
+        //   },
+        // },
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -365,6 +365,13 @@ const skills = {
         {
           skillName: "mlflow",
           fontAwesomeClassname: "simple-icons:mlflow",
+          style: {
+            color: "#326CE5",
+          },
+        },
+        {
+          skillName: "Apache Airflow",
+          fontAwesomeClassname: "logos:airflow",
           style: {
             color: "#326CE5",
           },

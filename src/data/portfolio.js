@@ -601,6 +601,24 @@ const certifications = {
       alt_name: "-",
       color_code: "#A435F0",
     },
+    {
+      title: "Kubernetes Mastery: Hands-On Lessons From A Docker Captain",
+      subtitle: "- Bret Fisher",
+      logo_path: "udemy-logo.svg",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-291e01d4-fea6-406e-9a98-330921b12127/",
+      alt_name: "-",
+      color_code: "#A435F0",
+    },
+    {
+      title: "Ethereum Developer Zero to Hero",
+      subtitle: "- นัฐพล นิมากุล",
+      logo_path: "skilllane_certificate_logo.png",
+      certificate_link:
+        "https://certificate.skilllane.com/certificates/IRA78FK",
+      alt_name: "-",
+      color_code: "#ffff",
+    },
   ],
 };
 

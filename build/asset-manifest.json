@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/info/static/css/main.8f856aa6.chunk.css",
-    "main.js": "/info/static/js/main.8dfabb9f.chunk.js",
-    "main.js.map": "/info/static/js/main.8dfabb9f.chunk.js.map",
+    "main.js": "/info/static/js/main.6c7cf4e0.chunk.js",
+    "main.js.map": "/info/static/js/main.6c7cf4e0.chunk.js.map",
     "runtime-main.js": "/info/static/js/runtime-main.cbf04eb0.js",
     "runtime-main.js.map": "/info/static/js/runtime-main.cbf04eb0.js.map",
     "static/js/2.3596bf04.chunk.js": "/info/static/js/2.3596bf04.chunk.js",
@@ -32,7 +32,7 @@
     "static/media/moon.svg": "/info/static/media/moon.e9852ed5.svg",
     "static/media/projects_image.svg": "/info/static/media/projects_image.fa5ff5db.svg",
     "static/media/skill.svg": "/info/static/media/skill.35a14766.svg",
-    "static/media/skilllane_certificate_logo.png": "/info/static/media/skilllane_certificate_logo.c7c9d397.png",
+    "static/media/skilllane_certificate_logo.png": "/info/static/media/skilllane_certificate_logo.c67ca34a.png",
     "static/media/sun.svg": "/info/static/media/sun.db2717a2.svg",
     "static/media/udemy-logo.svg": "/info/static/media/udemy-logo.a5a9f8a5.svg",
     "static/media/ui_ux_design.svg": "/info/static/media/ui_ux_design.85434722.svg",
@@ -51,6 +51,6 @@
     "static/js/runtime-main.cbf04eb0.js",
     "static/js/2.3596bf04.chunk.js",
     "static/css/main.8f856aa6.chunk.css",
-    "static/js/main.8dfabb9f.chunk.js"
+    "static/js/main.6c7cf4e0.chunk.js"
   ]
 }

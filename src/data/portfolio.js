@@ -155,13 +155,6 @@ const skills = {
           },
         },
         {
-          skillName: ".Net",
-          fontAwesomeClassname: "mdi:dot-net",
-          style: {
-            color: "#5C2D91",
-          },
-        },
-        {
           skillName: "GraphQL",
           fontAwesomeClassname: "simple-icons:graphql",
           style: {
@@ -176,33 +169,33 @@ const skills = {
           },
         },
         {
+          skillName: "Chai",
+          fontAwesomeClassname: "logos:chai",
+          style: {
+            color: "#FF6C37",
+          },
+        },
+        {
+          skillName: "Mocha",
+          fontAwesomeClassname: "logos:mocha",
+          style: {
+            color: "#FF9900",
+          },
+        },
+        {
           skillName: "Postman",
           fontAwesomeClassname: "simple-icons:postman",
           style: {
             color: "#FF6C37",
           },
         },
-        {
-          skillName: "Go(basic)",
-          fontAwesomeClassname: "vscode-icons:file-type-go-gopher",
-          style: {
-            color: "#rgb(106, 215, 229)",
-          },
-        },
-        {
-          skillName: "Github",
-          fontAwesomeClassname: "icon-park:github",
-          style: {
-            color: "#000",
-          },
-        },
-        {
-          skillName: "Gitlab",
-          fontAwesomeClassname: "logos:gitlab",
-          style: {
-            color: "#000",
-          },
-        },
+        // {
+        //   skillName: "Go(basic)",
+        //   fontAwesomeClassname: "vscode-icons:file-type-go-gopher",
+        //   style: {
+        //     color: "#rgb(106, 215, 229)",
+        //   },
+        // },
         {
           skillName: "NextJS",
           fontAwesomeClassname: "teenyicons:nextjs-outline",
@@ -356,6 +349,13 @@ const skills = {
           },
         },
         {
+          skillName: "Rabbitmq",
+          fontAwesomeClassname: "logos:rabbitmq",
+          style: {
+            color: "#005571",
+          },
+        },
+        {
           skillName: "Spark",
           fontAwesomeClassname: "cib:apache-spark",
           style: {
@@ -372,6 +372,27 @@ const skills = {
         {
           skillName: "Apache Airflow",
           fontAwesomeClassname: "logos:airflow",
+          style: {
+            color: "#326CE5",
+          },
+        },
+        {
+          skillName: "Github",
+          fontAwesomeClassname: "icon-park:github",
+          style: {
+            color: "#000",
+          },
+        },
+        {
+          skillName: "Gitlab",
+          fontAwesomeClassname: "logos:gitlab",
+          style: {
+            color: "#000",
+          },
+        },
+        {
+          skillName: "Jenkins",
+          fontAwesomeClassname: "logos:jenkins",
           style: {
             color: "#326CE5",
           },

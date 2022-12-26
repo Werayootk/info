@@ -350,9 +350,9 @@ const skills = {
         },
         {
           skillName: "Rabbitmq",
-          fontAwesomeClassname: "logos:rabbitmq",
+          fontAwesomeClassname: "logos:rabbitmq-icon",
           style: {
-            color: "#005571",
+            color: "#FF9900",
           },
         },
         {

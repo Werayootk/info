@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/info/static/css/main.8f856aa6.chunk.css",
-    "main.js": "/info/static/js/main.7e4b42e3.chunk.js",
-    "main.js.map": "/info/static/js/main.7e4b42e3.chunk.js.map",
-    "runtime-main.js": "/info/static/js/runtime-main.cbf04eb0.js",
-    "runtime-main.js.map": "/info/static/js/runtime-main.cbf04eb0.js.map",
-    "static/js/2.3596bf04.chunk.js": "/info/static/js/2.3596bf04.chunk.js",
-    "static/js/2.3596bf04.chunk.js.map": "/info/static/js/2.3596bf04.chunk.js.map",
-    "static/js/3.0db5cd68.chunk.js": "/info/static/js/3.0db5cd68.chunk.js",
-    "static/js/3.0db5cd68.chunk.js.map": "/info/static/js/3.0db5cd68.chunk.js.map",
+    "main.js": "/info/static/js/main.67e9501b.chunk.js",
+    "main.js.map": "/info/static/js/main.67e9501b.chunk.js.map",
+    "runtime-main.js": "/info/static/js/runtime-main.c43a01a9.js",
+    "runtime-main.js.map": "/info/static/js/runtime-main.c43a01a9.js.map",
+    "static/js/2.2ee8edf3.chunk.js": "/info/static/js/2.2ee8edf3.chunk.js",
+    "static/js/2.2ee8edf3.chunk.js.map": "/info/static/js/2.2ee8edf3.chunk.js.map",
+    "static/js/3.455fd41d.chunk.js": "/info/static/js/3.455fd41d.chunk.js",
+    "static/js/3.455fd41d.chunk.js.map": "/info/static/js/3.455fd41d.chunk.js.map",
     "index.html": "/info/index.html",
     "static/css/main.8f856aa6.chunk.css.map": "/info/static/css/main.8f856aa6.chunk.css.map",
-    "static/js/2.3596bf04.chunk.js.LICENSE.txt": "/info/static/js/2.3596bf04.chunk.js.LICENSE.txt",
+    "static/js/2.2ee8edf3.chunk.js.LICENSE.txt": "/info/static/js/2.2ee8edf3.chunk.js.LICENSE.txt",
     "static/media/index.css": "/info/static/media/Montserrat-Regular.3cd78665.ttf",
     "static/media/Thaisurvie_logo.png": "/info/static/media/Thaisurvie_logo.1257fcea.png",
     "static/media/address_image.svg": "/info/static/media/address_image.ee6c2f85.svg",
+    "static/media/bkk_hackathon.png": "/info/static/media/bkk_hackathon.a71771f9.png",
     "static/media/blogs_image.svg": "/info/static/media/blogs_image.b87d12fd.svg",
     "static/media/cloud_infrastructure.svg": "/info/static/media/cloud_infrastructure.20b580f8.svg",
     "static/media/contactMail.png": "/info/static/media/contactMail.0bc4d365.png",
@@ -48,9 +49,9 @@
     "static/media/weprofile.png": "/info/static/media/weprofile.e12a5f53.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cbf04eb0.js",
-    "static/js/2.3596bf04.chunk.js",
+    "static/js/runtime-main.c43a01a9.js",
+    "static/js/2.2ee8edf3.chunk.js",
     "static/css/main.8f856aa6.chunk.css",
-    "static/js/main.7e4b42e3.chunk.js"
+    "static/js/main.67e9501b.chunk.js"
   ]
 }

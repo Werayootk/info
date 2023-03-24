@@ -229,6 +229,13 @@ const skills = {
           },
         },
         {
+          skillName: "Yolo",
+          fontAwesomeClassname: "simple-icons:yolo",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
           skillName: "Scikit-learn",
           fontAwesomeClassname: "simple-icons:scikit-learn",
           style: {
@@ -244,13 +251,13 @@ const skills = {
             color: "#FF6C37",
           },
         },
-        // {
-        //   skillName: "PyTorch",
-        //   fontAwesomeClassname: "logos-pytorch",
-        //   style: {
-        //     backgroundColor: "transparent",
-        //   },
-        // },
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "logos-pytorch",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
@@ -278,20 +285,20 @@ const skills = {
             color: "#4285F4",
           },
         },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
-          },
-        },
+        // {
+        //   skillName: "AWS",
+        //   fontAwesomeClassname: "simple-icons:amazonaws",
+        //   style: {
+        //     color: "#FF9900",
+        //   },
+        // },
+        // {
+        //   skillName: "Azure",
+        //   fontAwesomeClassname: "simple-icons:microsoftazure",
+        //   style: {
+        //     color: "#0089D6",
+        //   },
+        // },
         {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
@@ -334,13 +341,13 @@ const skills = {
             color: "#4479A1",
           },
         },
-        {
-          skillName: "ElasticSearch",
-          fontAwesomeClassname: "logos:elasticsearch",
-          style: {
-            color: "#005571",
-          },
-        },
+        // {
+        //   skillName: "ElasticSearch",
+        //   fontAwesomeClassname: "logos:elasticsearch",
+        //   style: {
+        //     color: "#005571",
+        //   },
+        // },
         {
           skillName: "Kafka",
           fontAwesomeClassname: "logos:kafka",
@@ -348,13 +355,13 @@ const skills = {
             color: "#005571",
           },
         },
-        {
-          skillName: "Rabbitmq",
-          fontAwesomeClassname: "logos:rabbitmq-icon",
-          style: {
-            color: "#FF9900",
-          },
-        },
+        // {
+        //   skillName: "Rabbitmq",
+        //   fontAwesomeClassname: "logos:rabbitmq-icon",
+        //   style: {
+        //     color: "#FF9900",
+        //   },
+        // },
         {
           skillName: "Spark",
           fontAwesomeClassname: "cib:apache-spark",
@@ -362,13 +369,13 @@ const skills = {
             color: "#FF9900",
           },
         },
-        {
-          skillName: "mlflow",
-          fontAwesomeClassname: "simple-icons:mlflow",
-          style: {
-            color: "#326CE5",
-          },
-        },
+        // {
+        //   skillName: "mlflow",
+        //   fontAwesomeClassname: "simple-icons:mlflow",
+        //   style: {
+        //     color: "#326CE5",
+        //   },
+        // },
         {
           skillName: "Apache Airflow",
           fontAwesomeClassname: "logos:airflow",
@@ -390,13 +397,13 @@ const skills = {
             color: "#000",
           },
         },
-        {
-          skillName: "Jenkins",
-          fontAwesomeClassname: "logos:jenkins",
-          style: {
-            color: "#326CE5",
-          },
-        },
+        // {
+        //   skillName: "Jenkins",
+        //   fontAwesomeClassname: "logos:jenkins",
+        //   style: {
+        //     color: "#326CE5",
+        //   },
+        // },
         {
           skillName: "Docker",
           fontAwesomeClassname: "simple-icons:docker",
@@ -482,6 +489,14 @@ const competitiveSites = {
         color: "#FFA116",
       },
       profileLink: "https://leetcode.com/Werayootk/",
+    },
+    {
+      siteName: "FreeCodeCamp",
+      iconifyClassname: "cib:freecodecamp",
+      style: {
+        color: "#000",
+      },
+      profileLink: "https://www.freecodecamp.org/werayootk",
     },
     {
       siteName: "Kaggle",
@@ -713,6 +728,17 @@ const experience = {
           location: "Work From Home",
           description:
             "I am actively contributing to this project as a frontend developer to develop user interface by design and integrate with RESTful API service from backend.",
+          color: "#E5E5E5",
+        },
+        {
+          title: "Bangkok Open Source Hackathon",
+          company: "Bangkok Open Source Hackathon ",
+          company_url: "We Space",
+          logo_path: "bkk_hackathon.png",
+          duration: "March 2023 - PRESENT",
+          location: "Work From Home",
+          description:
+            "I am actively contributing to this project as a backend developer and object detection Model.",
           color: "#E5E5E5",
         },
       ],

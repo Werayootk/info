@@ -140,20 +140,20 @@ const skills = {
             color: "#CB3837",
           },
         },
-        {
-          skillName: "redux",
-          fontAwesomeClassname: "simple-icons:redux",
-          style: {
-            color: "#764ABC",
-          },
-        },
-        {
-          skillName: "redux-saga",
-          fontAwesomeClassname: "simple-icons:reduxsaga",
-          style: {
-            color: "#999999",
-          },
-        },
+        // {
+        //   skillName: "redux",
+        //   fontAwesomeClassname: "simple-icons:redux",
+        //   style: {
+        //     color: "#764ABC",
+        //   },
+        // },
+        // {
+        //   skillName: "redux-saga",
+        //   fontAwesomeClassname: "simple-icons:reduxsaga",
+        //   style: {
+        //     color: "#999999",
+        //   },
+        // },
         {
           skillName: "GraphQL",
           fontAwesomeClassname: "simple-icons:graphql",
@@ -161,27 +161,27 @@ const skills = {
             color: "#E434AA",
           },
         },
-        {
-          skillName: "Jest",
-          fontAwesomeClassname: "simple-icons:jest",
-          style: {
-            color: "#C21325",
-          },
-        },
-        {
-          skillName: "Chai",
-          fontAwesomeClassname: "logos:chai",
-          style: {
-            color: "#FF6C37",
-          },
-        },
-        {
-          skillName: "Mocha",
-          fontAwesomeClassname: "logos:mocha",
-          style: {
-            color: "#FF9900",
-          },
-        },
+        // {
+        //   skillName: "Jest",
+        //   fontAwesomeClassname: "simple-icons:jest",
+        //   style: {
+        //     color: "#C21325",
+        //   },
+        // },
+        // {
+        //   skillName: "Chai",
+        //   fontAwesomeClassname: "logos:chai",
+        //   style: {
+        //     color: "#FF6C37",
+        //   },
+        // },
+        // {
+        //   skillName: "Mocha",
+        //   fontAwesomeClassname: "logos:mocha",
+        //   style: {
+        //     color: "#FF9900",
+        //   },
+        // },
         {
           skillName: "Postman",
           fontAwesomeClassname: "simple-icons:postman",
